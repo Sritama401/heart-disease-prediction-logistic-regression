@@ -127,6 +127,19 @@ The model can take patient medical values as input and predict whether the patie
 
 
 ---
+## 📊 Visual Results
+
+### Confusion Matrix
+The confusion matrix helps analyze true positives, false positives, false negatives, and true negatives, which is crucial in healthcare applications.
+
+![Confusion Matrix](images/Confusion_Matrix.png)
+
+### Sigmoid Curve
+The sigmoid function maps linear model outputs to probabilities between 0 and 1, forming the basis of Logistic Regression.
+
+![Sigmoid Curve](images/Sigmoid_Curve.png)
+
+---
 
 
 
